@@ -15,7 +15,7 @@ export default function ThankYou() {
   }, [])
 
   return (
-    <main dir="rtl" style={{ minHeight: "100vh", display: "flex", alignItems: "center", justifyContent: "center", padding: "1rem", fontFamily: "'Almarai',sans-serif", background: "#F4F9F6" }}>
+    <main dir="rtl" style={{ minHeight: "100vh", display: "flex", alignItems: "center", justifyContent: "center", padding: "1rem", fontFamily: "'Almarai',sans-serif", background: "#FAF8F5" }}>
       <div style={{ textAlign: "center", maxWidth: 400 }}>
         <div style={{ fontSize: "3rem", marginBottom: "1rem" }}>✅</div>
         <h1 style={{ fontSize: "1.8rem", fontWeight: 700, marginBottom: "0.5rem", color: "#1C1917" }}>تم الإرسال!</h1>
@@ -30,7 +30,7 @@ export default function ThankYou() {
             <span style={{ fontSize: "0.75rem", color: "#8B7355" }}>رد فوري</span>
           </a>
         </div>
-        <a href="/" style={{ display: "inline-block", background: "#FF4713", color: "white", padding: "12px 32px", fontWeight: 700, fontSize: "0.85rem", textDecoration: "none", borderRadius: 8 }}>
+        <a href="/" style={{ display: "inline-block", background: "#5C0F30", color: "white", padding: "12px 32px", fontWeight: 700, fontSize: "0.85rem", textDecoration: "none", borderRadius: 8 }}>
           العودة للرئيسية
         </a>
       </div>
