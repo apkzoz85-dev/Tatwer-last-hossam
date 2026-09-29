@@ -1,9 +1,9 @@
 "use client"
 import { useEffect } from "react"
 
-const P = "+201038489754"
-const PD = "0103 848 9754"
-const WN = "201038489754"
+const P = "+201065159906"
+const PD = "01065159906"
+const WN = "201065159906"
 
 export default function ThankYou() {
   useEffect(() => {
