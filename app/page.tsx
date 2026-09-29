@@ -2,7 +2,7 @@
 import React, { useState, useEffect, useRef } from "react"
 
 /* ── CONSTANTS (lines 5–9) ── */
-const P = "+201065159906"
+const P = "201065159906"
 const PD = "01065159906"
 const PI = "01065159906"
 const WN = "01065159906"
